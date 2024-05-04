@@ -15,14 +15,14 @@ Here is a quick summary of the models and their performances:
 
 ## Files in the Repository
 
-- **`LinearRegression.ipynb`**: Explores the use of logistic regression for initial model benchmarking.
+- **`LogisticRegression.ipynb`**: Explores the use of logistic regression for initial model benchmarking.
 - **`CNNClassifier.ipynb`**: Develops a custom CNN tailored to the specific needs of glomeruli image classification.
 - **`resnet50classifier.ipynb`**: Adapts a pretrained ResNet-50 model to the task, leveraging deep learning advancements for improved accuracy.
 - **`evaluation.py`**: Provides utilities for model evaluation and created evaluation.csv
 
 ## Detailed Workflow and Model Insights
 
-### Step 1: Logistic Regression (LinearRegression.ipynb)
+### Step 1: Logistic Regression (LogisticRegression.ipynb)
 
 #### Purpose
 To establish a baseline for classification performance using a simple logistic regression model, which helps identify key features and dataset characteristics.
@@ -111,7 +111,7 @@ pipenv install
 ```bash
 pipenv run python evaluation.py --test_data_path [path_to_test_data] --model_path [path_to_saved_model]
 ```
-- [Liner Regression](https://uflorida-my.sharepoint.com/:u:/g/personal/h_lohaan_ufl_edu/EW5vDob0XNlNph6NJRwG-fgBska1ZZKdm6gh5OiwJtwOHw?e=DQRJkT) (407 kb)
+- [Logistic Regression](https://uflorida-my.sharepoint.com/:u:/g/personal/h_lohaan_ufl_edu/EW5vDob0XNlNph6NJRwG-fgBska1ZZKdm6gh5OiwJtwOHw?e=DQRJkT) (407 kb)
 
 - [Simple CNN](https://uflorida-my.sharepoint.com/:u:/g/personal/h_lohaan_ufl_edu/EQCuDdQ6hcJMvQkinFpIEsEBiFFIsB6Y__YgymEP86f-Mg?e=XG3l5Z) (9.8 mb)
   
