@@ -36,8 +36,7 @@ To establish a baseline for classification performance using a simple logistic r
 - **Rebalancing Techniques**: Applied data augmentation techniques such as image rotations and flips to enhance the dataset's diversity and balance.
 
 #### Results
-The logistic regression model achieved a respectable accuracy of 90.5%, providing valuable insights into the data's characteristics and the feasibility of using simpler models for preliminary analysis. The model can be downloaded from [here](https://uflorida-my.sharepoint.com/:u:/g/personal/h_lohaan_ufl_edu/EW5vDob0XNlNph6NJRwG-fgBska1ZZKdm6gh5OiwJtwOHw?e=DQRJkT) (407 kb)
-Following was the confusion matrix before 
+The logistic regression model achieved a respectable accuracy of 90.5%, providing valuable insights into the data's characteristics and the feasibility of using simpler models for preliminary analysis. The model can be downloaded from [here](https://uflorida-my.sharepoint.com/:u:/g/personal/h_lohaan_ufl_edu/EW5vDob0XNlNph6NJRwG-fgBska1ZZKdm6gh5OiwJtwOHw?e=DQRJkT) (407 kb).
 
 ### Step 2: Custom CNN Model (CNNClassifier.ipynb)
 
