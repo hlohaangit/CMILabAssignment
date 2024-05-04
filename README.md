@@ -108,6 +108,7 @@ pip install pipenv
 pipenv install
 ```
 5. download any of the models mentioned above (or from the links below) and run the following command
+   Please note that the directory to the dataset expects no subdirectories. 
 ```bash
 pipenv run python evaluation.py --test_data_path [path_to_test_data] --model_path [path_to_saved_model]
 ```
